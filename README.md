@@ -72,7 +72,7 @@ The best way to see my work → **[kavi-vs-portfolio.netlify.app](https://kavi-v
   <a href="https://kavi-vs-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="mailto:vskavi20@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=vskavi20@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
