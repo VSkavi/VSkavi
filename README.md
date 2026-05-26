@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kavi+%F0%9F%91%8B;Frontend+Developer+%26+UI+Designer;Building+clean+web+experiences;Open+to+Full-Time+Remote+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kavi VS+%F0%9F%91%8B;Frontend+Developer+%26+UI+Designer;Building+clean+web+experiences;Open+to+Full-Time+Remote+Roles" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -72,12 +72,12 @@ The best way to see my work → **[kavi-vs-portfolio.netlify.app](https://kavi-v
   <a href="https://kavi-vs-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="mailto:vskavi20@email.com">
+  <a href="mailto:vskavi20@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
   <br/>
-  <i>Available for full-time remote roles — response time: fast ⚡</i>
+  <i>Available for remote roles — response time: fast ⚡</i>
 </div>
