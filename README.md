@@ -69,7 +69,7 @@ The best way to see my work → **[kavi-vs-portfolio](https://kavi-portfolio-eig
   <a href="https://www.linkedin.com/in/kavivs26">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kavi-vs-portfolio.netlify.app">
+  <a href="https://kavi-portfolio-eight.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=vskavi20@gmail.com">
