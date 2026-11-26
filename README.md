@@ -48,7 +48,7 @@ A fully responsive e-commerce-style website for a jewellery brand — built from
 
 ## 🌐 Portfolio
 
-The best way to see my work → **[kavi-vs-portfolio](https://kavi-portfolio-eight.vercel.app/)**
+The best way to see my work → **([kavi's portfolio](https://kavi-vs.vercel.app/))**
 
 ---
 
